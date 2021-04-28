@@ -1,14 +1,17 @@
 body {
   background-color: PaleGoldenrod;
   font-family: Verdana, sans-serif;
-  color: black;
+  
   padding: 40px;
   text-align: center;
-  margin: 0  auto;
+  border: 5px solid goldenrod;
 }
 h1 {
-  color: blue;
+  color: goldenrod;
 }
-p {
-  color: red;
+h2 {
+  color: goldenrod;
+}
+h3 {
+  color: whiteSmoke;
 }
